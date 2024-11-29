@@ -11,7 +11,7 @@ export default function Navbar() {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
 
     return (
-        <div className="border flex flex-row items-center justify-between bg-black text-white p-5">
+        <div className="flex flex-row items-center justify-between bg-black text-white p-5">
         <Image
           src="/logo.png"
           width={50}

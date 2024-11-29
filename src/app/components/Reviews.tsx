@@ -9,7 +9,7 @@ export default function Reviews(){
             </div>
             <div className="flex flex-col lg:flex-row mt-10">
                 <div className="w-full lg:w-4/12 m-3 p-5 border rounded-md ">
-                    <h1 className="text-center mb-5">"They are amazing"</h1>
+                    <h1 className="text-center mb-5">&quot; They are amazing &quot;</h1>
                     <div className="flex flex-row ">
                     <div className=" w-2/12  ">
                         <Image src="/review1.jpeg" alt="review" height={50} width={50} className="rounded-md "></Image>
@@ -22,7 +22,7 @@ export default function Reviews(){
                     
                 </div>
                 <div className="w-full lg:w-4/12 m-3 p-5 border rounded-md ">
-                    <h1 className="text-center mb-5">"They are damn good at work!"</h1>
+                    <h1 className="text-center mb-5">&quot;They are damn good at work!&quot;</h1>
                     <div className="flex flex-row ">
                     <div className=" w-2/12  ">
                         <Image src="/review3.jpeg" alt="review" height={50} width={50} className="rounded-md "></Image>
@@ -35,7 +35,7 @@ export default function Reviews(){
                     
                 </div>
                 <div className="w-full lg:w-4/12 m-3 p-5 border rounded-md ">
-                    <h1 className="text-center mb-5">"They are amazing"</h1>
+                    <h1 className="text-center mb-5">&quot;They are amazing&quot;</h1>
                     <div className="flex flex-row ">
                     <div className=" w-2/12  ">
                         <Image src="/review2.jpeg" alt="review" height={50} width={50} className="rounded-md "></Image>
