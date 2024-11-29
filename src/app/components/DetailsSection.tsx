@@ -21,7 +21,7 @@ export default function DetailsSection(){
             <button className="rounded-md bg-black text-white p-3 content-center w-full lg:w-10/12 items-center justify-center m-5  mt-10">Add to cart.</button>
 
             </div>
-            <div className="lg:w-6/12 w-full m-5">
+            <div className="lg:w-6/12  m-5">
                 <Image src="/newArrival.webp" alt="image" height={100} width={200} className="w-full h-fit rounded-md"></Image>
             </div>
         </div>
